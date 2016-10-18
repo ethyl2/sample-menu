@@ -1,0 +1,10 @@
+body {
+	font-family: sans-serif;
+}
+
+.substitution {
+	color: purple;
+}
+
+.veg_leaf{
+    list-style-image:url('../images/leaf.png');
